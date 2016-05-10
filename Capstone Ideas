@@ -1,0 +1,30 @@
+Three potential capstone ideas: 
+
+1) How has the landscape of startups changed over the past 10 years? 
+  - Data: Census Non-employer data; a non-employer business is defined as a business w/ no employees (excluding owner)
+  - Have geographic data and type of business from 2004 - 2013
+  - Hypothesis: While tech non-employers are likely concentrated where one might expect them to be (Silicon Valley, Austin, maybe elsewhere?), I'd like to see if there are patterns in other types of non-employers
+  - Potential insights: provide suggestions for targeted investments or provide recommendations on where to move if you want to start your own business
+  
+  Preliminary link: (http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=NES_2013_00A2&prodType=table)
+
+2) Do artists always write the same types of songs?
+  - Data: Last.fm song and artist tagging information
+  - Hypothesis: Generally, artists will write songs that are tagged similarly (e.g. all "rock"); however, when they branch out of their comfort zone and write a song that is tagged differently, that new song will be less popular 
+  - Potential insights: recommendations to music executives on whether or not to promote a song if it's similar / different to what an artist current writes
+  Preliminary data: http://www.last.fm/api
+  
+3) Why does it rain so much in Houston?
+  - Data: precipitation data from NOAA
+  - Hypothesis: We had a 500 year storm in Houston on Monday; it seems like this is happening more and more frequently. Can we prove it? 
+  - Potential insights: with creative license, could be applied to global warming. Or at least to Houston resident's flood prevention measures...
+Preliminary data: http://water.weather.gov/precip/download.php
+  
+Other brainstormed questions...  
+- Investment opportunities - can we predict the success of a small business based on identifying factors? 
+- Weather - Why is Houston so wet? 
+- Education - can we predict whether someone will do well in consulting? 
+- Computer Science - is there a logical way to predict the next question someone will ask on Stackoverflow? 
+- Programming - what's the most robust language on the web? Which language gets the most support after Excel?  
+- Trains - where and when are accidents most likely to happen? http://safetydata.fra.dot.gov/officeofsafety/default.aspx
+- Music - what songs are commonly tagged together? 
